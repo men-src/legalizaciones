@@ -4,4 +4,4 @@
 :HL["/legalizaciones/api/v1/legalizaciones/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"tiempos","h":96,"c":"$Q2"}]]
-0:{"b":"Tmx9a81x9jSY_xRiq_ca_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"D_vabIacj_Iy9P5f8nTps","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
